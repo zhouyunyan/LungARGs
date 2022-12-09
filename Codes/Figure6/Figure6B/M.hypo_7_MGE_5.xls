@@ -1,6 +1,0 @@
-MGE_Type	MGE_Class	MAG_115	MAG_16	MAG_2	MAG_366	MAG_48	MAG_5	MAG_6
-IS91	insertion_element_IS91	1	0	1	0	0	1	1
-ISBf10	ISBf10	1	1	0	0	1	1	1
-pEC4115	plasmid	0	0	0	0	1	0	0
-prophage	prophage	1	1	0	0	1	1	0
-tnpA	transposase	1	1	1	1	1	1	1
