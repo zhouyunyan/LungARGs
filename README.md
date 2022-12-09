@@ -18,4 +18,4 @@ Statistical analysis and visualization: Source data and code of statistical anal
 
 
 ## Other_Figures_data.xlsx  
-Other_Figures_data.xlsx: The source data of figures plotted in Excel. If two figures were plottted with the same one raw data file, we named that sheet like "Fig.1a,b".
+Other_Figures_data.xlsx: The source data of figures plotted in Excel.
