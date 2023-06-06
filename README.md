@@ -13,6 +13,10 @@ ARG_MGE_VFG.sh: Annotation of antibiotic resistance genes (ARGs), mobile genetic
 ARGs_host_contigs.sh: Identification of ARG host bacteria based on contigs.
 
 
+## MAG_abudance.sh
+MAG_abudance.sh: The calculation of MAG abundances
+
+
 ## Statistical analysis and visualization  
 Statistical analysis and visualization: Source data and code of statistical analysis and visualization.
 
