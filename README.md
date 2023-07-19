@@ -1,5 +1,5 @@
 # LungARGs
-The source data and codes related to the manuscript "Antibiotic resistomes and mobile genetic elements transferred antibiotic resistance genes in pig lower respiratory tract microbiome and its relationships with lung lesions".
+The source data and codes related to the manuscript "Characterization of the pig lower respiratory tract antibiotic resistome".
 
 ## Metagenomic analysis  
 The scripts of metagenomic analysis including the construction of the gene catalog and metagenome-assembled genomes are available at GitHub (https://github.com/Jingquan-Li/PRGC). 
